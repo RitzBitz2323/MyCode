@@ -7,5 +7,6 @@ def mergeSort(a, l, r):
     merge(A, l, mid, r)
 
 def merge(a, l, mid, r):
+    return
 
 
