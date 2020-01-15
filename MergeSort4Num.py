@@ -6,6 +6,10 @@ def mergeSort(a):
     j = 0
     k = 0
     l = 0
+
+    print(*leftSide)
+    print(*rightSide)
+
     if leftSide[i] > leftSide[i+1]:
         k = leftSide[i+1]
         l = leftSide[i]
@@ -23,6 +27,10 @@ def mergeSort(a):
         a[i] = rightSide[j]
         j = j + 1
         i = i + 1
+
+    print(*leftSide)
+    print(*rightSide)
+ # ----------- Above Code works and separates array into 2 arrays and that sorts them
     e = 0
     b = 2
     tempa = 0
@@ -44,12 +52,19 @@ def mergeSort(a):
             if b < 4:
                 b = b + 1
         count = count + 1
+    p = 1
+    if a[p] > a[p+1]:
+        tempa = a[p]
+        tempb = a[p+1]
+        a[p] = tempb
+        a[p+1] = tempa
+
 
 
 
 
 
 print("Merge Sort 4 Numbers")
-arr = [5,8,1,4]
+arr = [3,1,9,8]
 mergeSort(arr)
 print(*arr)
