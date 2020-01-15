@@ -44,14 +44,14 @@ def mergeSort(a):
             a[b] = tempa
             if e < 2:
                 e = e + 1
-        else:
+        elif a[b] > a[e]:
             tempa = a[b]
             tempb = a[e]
             a[e] = tempb
             a[b] = tempa
             if b < 4:
                 b = b + 1
-        count = count + 1
+        count = count + 2
     p = 1
     if a[p] > a[p+1]:
         tempa = a[p]
@@ -65,6 +65,6 @@ def mergeSort(a):
 
 
 print("Merge Sort 4 Numbers")
-arr = [3,1,9,8]
+arr = [1,4,3,5]
 mergeSort(arr)
 print(*arr)
