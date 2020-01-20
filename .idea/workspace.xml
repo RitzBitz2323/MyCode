@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70e74e38-6efc-4da0-86b5-2861a53797c9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/MergeSort2Num.py" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort2Num.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1WME7hRZawtjZsB7F7z8AIlrt0T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.MergeSort2Num">
+    <configuration name="MergeSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\Bubble\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MergeSort.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MergeSort2Num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\Bubble\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MergeSort2Num.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="MergeSort4Num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\User\PycharmProjects\Bubble\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MergeSort4Num.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.MergeSort2Num" />
+        <item itemvalue="Python.MergeSort4Num" />
+        <item itemvalue="Python.MergeSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70e74e38-6efc-4da0-86b5-2861a53797c9" name="Default Changelist" comment="" />
+      <created>1578950897593</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578950897593</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="161" key="#MergeSort" timestamp="1579045689193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="161" key="#MergeSort/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579045689193" />
+    <state x="698" y="162" key="#MergeSort2Num" timestamp="1579548510286">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="162" key="#MergeSort2Num/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579548510286" />
+    <state x="698" y="161" key="#MergeSort4Num" timestamp="1579053362058">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="698" y="161" key="#MergeSort4Num/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579053362058" />
+    <state width="1900" height="366" key="GridCell.Tab.0.bottom" timestamp="1579548526414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="366" key="GridCell.Tab.0.bottom/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579548526414" />
+    <state width="1866" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577372" />
+    <state width="1900" height="366" key="GridCell.Tab.0.center" timestamp="1579548526414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="366" key="GridCell.Tab.0.center/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579548526414" />
+    <state width="1866" height="340" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577372" />
+    <state width="1900" height="366" key="GridCell.Tab.0.left" timestamp="1579548526414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="366" key="GridCell.Tab.0.left/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579548526414" />
+    <state width="1866" height="340" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577372" />
+    <state width="1900" height="366" key="GridCell.Tab.0.right" timestamp="1579548526414">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1900" height="366" key="GridCell.Tab.0.right/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579548526414" />
+    <state width="1866" height="340" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577372" />
+    <state width="1866" height="340" key="GridCell.Tab.1.bottom" timestamp="1579069577373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1866" height="340" key="GridCell.Tab.1.bottom/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579059810447" />
+    <state width="1866" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577373" />
+    <state width="1866" height="340" key="GridCell.Tab.1.center" timestamp="1579069577373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1866" height="340" key="GridCell.Tab.1.center/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579059810446" />
+    <state width="1866" height="340" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577373" />
+    <state width="1866" height="340" key="GridCell.Tab.1.left" timestamp="1579069577372">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1866" height="340" key="GridCell.Tab.1.left/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579059810446" />
+    <state width="1866" height="340" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577372" />
+    <state width="1866" height="340" key="GridCell.Tab.1.right" timestamp="1579069577373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1866" height="340" key="GridCell.Tab.1.right/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579059810446" />
+    <state width="1866" height="340" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577373" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1579542277874">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579542277874" />
+    <state x="668" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1579216479927" />
+  </component>
+</project>
