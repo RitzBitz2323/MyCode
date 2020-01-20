@@ -1,15 +1,17 @@
-def mergeSort(a):
-    mid = len(a)//2
-    l = a[:mid]
-    r = a[mid:]
-    i = 0
-    if(l[i] > r[i]):
-        num = r[i]
-        r[i] = l[i]
-        l[i] = num
-    a[i] = l[i]
-    a[i+1] = r[i]
-    print(*a)
+#import pdb
+def mergeSort(inputlist):
+   # pdb.set_trace()
+    mid = len(inputlist)//2
+    left = inputlist[:mid]
+    right = inputlist[mid:]
+    index = 0
+    if(left[index] > right[index]):
+        num = right[index]
+        right[index] = left[index]
+        left[index] = num
+    inputlist[index] = left[index]
+    inputlist[index+1] = right[index]
+    print(*inputlist)
 
 
 
