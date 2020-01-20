@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="70e74e38-6efc-4da0-86b5-2861a53797c9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/MergeSort2Num.py" beforeDir="false" afterPath="$PROJECT_DIR$/MergeSort2Num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Factorial.py" beforeDir="false" afterPath="$PROJECT_DIR$/Factorial.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +30,28 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.MergeSort2Num">
+  <component name="RunManager" selected="Python.Factorial">
+    <configuration name="Factorial" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Factorial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="MergeSort2Num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +96,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Factorial" />
         <item itemvalue="Python.MergeSort2Num" />
         <item itemvalue="Python.MergeSort4Num" />
       </list>
@@ -121,52 +144,52 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="278" key="FileChooserDialogImpl/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579554773640" />
-    <state width="1914" height="260" key="GridCell.Tab.0.bottom" timestamp="1579554787796">
+    <state width="1899" height="255" key="GridCell.Tab.0.bottom" timestamp="1579555331965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1914" height="260" key="GridCell.Tab.0.bottom/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579554787796" />
+    <state width="1899" height="255" key="GridCell.Tab.0.bottom/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579555331965" />
     <state width="1515" height="260" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579554320347" />
     <state width="1866" height="340" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577372" />
-    <state width="1914" height="260" key="GridCell.Tab.0.center" timestamp="1579554787795">
+    <state width="1899" height="255" key="GridCell.Tab.0.center" timestamp="1579555331965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1914" height="260" key="GridCell.Tab.0.center/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579554787795" />
+    <state width="1899" height="255" key="GridCell.Tab.0.center/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579555331965" />
     <state width="1515" height="260" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579554320346" />
     <state width="1866" height="340" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577372" />
-    <state width="1914" height="260" key="GridCell.Tab.0.left" timestamp="1579554787795">
+    <state width="1899" height="255" key="GridCell.Tab.0.left" timestamp="1579555331965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1914" height="260" key="GridCell.Tab.0.left/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579554787795" />
+    <state width="1899" height="255" key="GridCell.Tab.0.left/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579555331965" />
     <state width="1515" height="260" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579554320346" />
     <state width="1866" height="340" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577372" />
-    <state width="1914" height="260" key="GridCell.Tab.0.right" timestamp="1579554787795">
+    <state width="1899" height="255" key="GridCell.Tab.0.right" timestamp="1579555331965">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1914" height="260" key="GridCell.Tab.0.right/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579554787795" />
+    <state width="1899" height="255" key="GridCell.Tab.0.right/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579555331965" />
     <state width="1515" height="260" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579554320347" />
     <state width="1866" height="340" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577372" />
-    <state width="1914" height="260" key="GridCell.Tab.1.bottom" timestamp="1579554787796">
+    <state width="1899" height="255" key="GridCell.Tab.1.bottom" timestamp="1579555337405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1914" height="260" key="GridCell.Tab.1.bottom/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579554787796" />
+    <state width="1899" height="255" key="GridCell.Tab.1.bottom/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579555337405" />
     <state width="1515" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579554032076" />
     <state width="1866" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577373" />
-    <state width="1914" height="260" key="GridCell.Tab.1.center" timestamp="1579554787796">
+    <state width="1899" height="255" key="GridCell.Tab.1.center" timestamp="1579555337405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1914" height="260" key="GridCell.Tab.1.center/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579554787796" />
+    <state width="1899" height="255" key="GridCell.Tab.1.center/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579555337405" />
     <state width="1515" height="260" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579554032075" />
     <state width="1866" height="340" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577373" />
-    <state width="1914" height="260" key="GridCell.Tab.1.left" timestamp="1579554787796">
+    <state width="1899" height="255" key="GridCell.Tab.1.left" timestamp="1579555337405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1914" height="260" key="GridCell.Tab.1.left/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579554787796" />
+    <state width="1899" height="255" key="GridCell.Tab.1.left/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579555337405" />
     <state width="1515" height="260" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579554032075" />
     <state width="1866" height="340" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577372" />
-    <state width="1914" height="260" key="GridCell.Tab.1.right" timestamp="1579554787796">
+    <state width="1899" height="255" key="GridCell.Tab.1.right" timestamp="1579555337405">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1914" height="260" key="GridCell.Tab.1.right/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579554787796" />
+    <state width="1899" height="255" key="GridCell.Tab.1.right/-3840.0.1536.848/0.0.1920.1040@0.0.1920.1040" timestamp="1579555337405" />
     <state width="1515" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579554032075" />
     <state width="1866" height="340" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1579069577373" />
     <state x="668" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1579554799597">
@@ -179,16 +202,11 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/MergeSort2Num.py</url>
-          <line>18</line>
-          <option name="timeStamp" value="28" />
+          <url>file://$PROJECT_DIR$/Factorial.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="PythonConfigurationType">
-        <watch expression="arr" language="Python" />
-      </configuration>
-    </watches-manager>
   </component>
 </project>
