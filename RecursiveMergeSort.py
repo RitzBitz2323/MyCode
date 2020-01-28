@@ -20,8 +20,18 @@ def mergeSort(arr):
             arrayCount = arrayCount + 1
 
 
+        while lsCount < len(leftSide):
+            arr[arrayCount] = leftSide[lsCount]
+            lsCount = lsCount + 1
+            arrayCount = arrayCount + 1
+
+        while rsCount < len(rightSide):
+            arr[arrayCount] = rightSide[rsCount]
+            rsCount = rsCount + 1
+            arrayCount = arrayCount + 1
+
 
 print("Recursive Merge Sort")
-arr = [5,1,3,2,8,6,4,9]
+arr = [1,5,7,3,2,8,6,4,9]
 mergeSort(arr)
 print(*arr)
