@@ -7,31 +7,29 @@ def mergeSort(array):
         mergeSort(right)
         i = 0
         u = 0
-
-        if(left[i] > right[u]):
-            temp = right[u]
-            right[u] = left[i]
-            left[i] = temp
-            i = i + 1
-            u = u + 1
-
-        k = 0
-        while(k < len(left)):
-            array[k] = left[k]
+        v = 0
+        while(i < len(left) and u < len(right)):
+            if(left[i] < right[u]):
+                array[v] = left[i]
+                i = i + 1
+            else:
+                array[v] = right[u]
+                u = u+1
+            v = v + 1
+        k = v
+        while(i < len(left)):
+            array[k] = left[i]
             k = k + 1
-        p = 0
-        while(p < len(right)):
-            array[p] = right[p]
-            p = p + 1
-
-
-
-
+            i = i + 1
+        while(u < len(right)):
+            array[k] = right[u]
+            u =  u + 1
+            k = k + 1
 
 
 
 
 print("Recursive Merge Sort")
-array = [5,1,2,4,8,3,9,7]
+array = [5,1,2,4,8,3,9,7,6]
 mergeSort(array)
 print(*array)
