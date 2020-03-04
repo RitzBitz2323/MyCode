@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=runner
+comment0.text=\r\n\ \ \ Previous\ printAll\ code\:\r\n\ \ \ System.out.println(y.start.data);\r\n\ \ \ System.out.println(y.start.next.data);\r\n\ \ \ System.out.println(y.start.next.next.data);\r\n\ \ \ System.out.println(y.start.next.next.next.data);\ prints\ null\r\n\ \ \ \r\n\ \ \ Node\ y\ \=\ x.start;\r\n\ \ \ \ \ \ while(y.next\ \!\=\ null){\r\n\ \ \ \ \ \ \ \ \ \ System.out.println(y.data);\r\n\ \ \ \ \ \ \ \ \ \ y\ \=\ y.next;\r\n\ \ \r\n\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ System.out.println(y.data);\r\n
+comment1.params=x
+comment1.target=void\ printAll(myLinkedList)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3
