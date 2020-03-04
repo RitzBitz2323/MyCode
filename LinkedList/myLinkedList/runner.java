@@ -19,15 +19,13 @@ public class runner
 {   
     public static void printAll(myLinkedList x){
       Node y = x.start;
-      if(x.start == null){
-        return;
-        }
-   
+      
+        
       do{
           
           System.out.println(y.data);
+        
           y = y.next;
-  
         
         }while(y.next != null);
       
