@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=runner
-comment0.text=\r\nPrevious\ printAll\ code\:\r\nSystem.out.println(y.start.data);\r\nSystem.out.println(y.start.next.data);\r\nSystem.out.println(y.start.next.next.data);\r\nSystem.out.println(y.start.next.next.next.data);\ prints\ null\r\n\r\nNode\ y\ \=\ x.start;\r\nwhile(y.next\ \!\=\ null){\r\nSystem.out.println(y.data);\r\ny\ \=\ y.next;\r\n\r\n}\r\nSystem.out.println(y.data);\r\n
-comment1.params=args
-comment1.target=void\ main(java.lang.String[])
-numComments=2
