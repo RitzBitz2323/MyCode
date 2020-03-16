@@ -16,17 +16,30 @@ System.out.println(y.data);
 
 public class runner
 {   
-  
 
     public static void main(String [] args){
         Node node1 = new Node(5, null);
         myLinkedList coolList = new myLinkedList(node1);
-        coolList.insert(coolList, 1, 135);
-        coolList.insert(coolList, 2, 21);
-        coolList.insert(coolList, 3, 43);
-        coolList.insert(coolList, 4, 982);
-        coolList.insert(coolList, 5, 34);
-        coolList.printAll(coolList);
+        
+        
+        
+       
+        
+        
+        coolList.insert(1, 135);
+        coolList.insert(2, 21);
+        coolList.insert(3, 43);
+        coolList.insert(4, 982);
+        coolList.insert(5, 34);
+        coolList.insert(100, 100);
+        coolList.printAll();
+        
+        coolList.delete(3);
+        coolList.printAll();
+        
+        coolList.delete(57);
+        coolList.printAll();
+        
         //coolList.delete(coolList, 2);
         
     }

@@ -2,18 +2,25 @@
 public class myLinkedList
 {
     Node start;
+
     myLinkedList(Node x){
         start = x;
+
     }
 
-    public static void delete(myLinkedList y, int pos){
+    public void delete(int pos){
+        int lengthLL = this.length();
+        if(pos > lengthLL){
+            pos = lengthLL;
+        }
+
         if(pos == 0){
             pos = pos;
         }
         else{
             pos = pos - 1;
         }
-        Node temp = y.start;
+        Node temp = this.start;
         for(int i = 0; i < pos - 1; i++){
 
             temp = temp.next;
@@ -23,8 +30,8 @@ public class myLinkedList
 
     }
 
-    public static void printAll(myLinkedList x){
-        Node y = x.start;
+    public void printAll(){
+        Node y = this.start;
 
         while(y.next != null){
             System.out.print(y.data + ", ");
@@ -35,14 +42,13 @@ public class myLinkedList
 
     }
 
-    public static void insert(myLinkedList y, int pos, int data){
-        if(pos == 0){
-            pos = pos;
+    public void insert(int pos, int data){
+        int lengthLL = this.length();
+        if(pos > lengthLL){
+            pos = lengthLL;
         }
-        else{
-            pos = pos - 1;
-        }
-        Node temp = y.start;
+
+        Node temp = this.start;
         //insertNum = insertNum + 1;
         for(int i = 0; i < pos - 1; i++){
 
@@ -53,10 +59,14 @@ public class myLinkedList
 
     }
 
-    public static void delHead(myLinkedList y){
-        int pos = 0;
-        Node temp = y.start;
-
+    private int length(){
+        Node temp = this.start;
+        int count = 0;
+        while(temp != null){
+            count++;
+            temp = temp.next;
+        }
+        return count;
     }
 
 }
