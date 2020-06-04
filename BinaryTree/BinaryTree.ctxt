@@ -2,6 +2,8 @@
 comment0.target=BinaryTree
 comment1.params=data
 comment1.target=BinaryTree(int)
-comment2.params=data
-comment2.target=void\ insert(int)
-numComments=3
+comment2.params=
+comment2.target=void\ print()
+comment3.params=data
+comment3.target=void\ insert(int)
+numComments=4
