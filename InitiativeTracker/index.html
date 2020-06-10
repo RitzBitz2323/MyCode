@@ -1,0 +1,33 @@
+<html lang="en" dir="ltr">
+  <head>
+    <script src="dnd.js"></script>
+
+    <meta charset="utf-8">
+    <title>Initiative Tracker</title>
+  </head>
+  <body>
+    <p>Name:</p>
+    <input type="text" type="input" id="name" value="Name">
+    <br>
+    <p>Dice Roll:</p>
+    <input type="int" type="input" id="roll"><br>
+
+    <!-- <input type="text" type="input" id="hp" value="HP"> -->
+    <input type="button" value="Enter" onclick="addCreature()">
+
+
+
+    <!-- Make a visual input here to have 3 inputs
+        - Name
+        - Roll
+        - HP
+        -->
+
+        <!-- Have list that gets input and adds to list in order of Roll with highest at top
+             and lowest at bottom
+
+             Also ability to turn them green or red if alive or dead respectively if hp drops to 0 // later add on
+            -->
+            <br><span id="output"></span>
+  </body>
+</html>
