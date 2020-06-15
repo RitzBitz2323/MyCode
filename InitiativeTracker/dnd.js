@@ -1,6 +1,8 @@
 var list = [];
 //var listString = "";
 var i = 0;
+var name = "";
+var roll = "";
 function addCreature(){
   var cname = document.getElementById('name').value;
   var croll = document.getElementById('roll').value;
